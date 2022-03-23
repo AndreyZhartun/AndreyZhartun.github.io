@@ -1,0 +1,15 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "AZ",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "snowpack": "^3.8.8"
+  },
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  }
+}
