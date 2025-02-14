@@ -46,12 +46,8 @@ sidebar:
 # career-profile:
 #   title: Career Profile
 #   summary: |
-#     Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#     adipiscing elit. You can [download this free resume/CV template here]().
-#     Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#     penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#     Donec quam felis, ultricies nec, pellentesque eu.
-#     Second paragraph if required.
+#     Я Frontend Разработчик в активном поиске работы
+    
 education:
   title: Образование
   info:
@@ -67,13 +63,19 @@ experiences:
     company: ITERA Software Lab, Караганда
     details: |
       Начал на позиции Junior-разработчика, был несколько раз повышен и закончил как Middle+.
-      В ходе работы я:
+      Главные достижения:
 
         - Занимался поддержкой и дополнением большой CRM-системы в рамках проекта AppInCloud (appin.cloud).
         - Создавал и поддерживал небольшие CRM-системы на React.
         - Создавал части веб-сайтов и лендинги на чистом HTML+CS+JS.
         - Создал сайт на React и Next.js для сервиса доставки еды EMENU (emenu.delivery).
-          
+
+      Обязанности:
+        - Разбитие эпиков JIRA на задачи дизайна и разработки\
+        - Обсуждение макетов Adobe XD с UX-дизайнерами
+        - Реализация дизайн-макетов Adobe XD или Figma с помощью React+Typescript
+        - Слияние веток и разрешение merge-конфликтов
+      
       Примеры выполненных задач:
       
         - Постепенный перевод на Typescript проекта, написанного на Javascript, в том числе настройка параметров webpack, tsconfig и eslint
