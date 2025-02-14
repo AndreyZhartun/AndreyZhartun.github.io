@@ -5,7 +5,7 @@
 sidebar:
   position: right # position of the sidebar : left or right
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: False # set to False if you want education in main section instead of in sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Андрей Жартун
@@ -66,18 +66,20 @@ experiences:
     time: Сентябрь 2020 - Ноябрь 2024
     company: ITERA Software Lab, Караганда
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Начал на позиции Junior-разработчика, был несколько раз повышен и закончил как Middle+.
+      В ходе работы я:
 
+        - Занимался поддержкой и дополнением большой CRM-системы в рамках проекта AppInCloud (appin.cloud).
+        - Создавал и поддерживал небольшие CRM-системы на React.
+        - Создавал части веб-сайтов и лендинги на чистом HTML+CS+JS.
+        - Создал сайт на React и Next.js для сервиса доставки еды EMENU (emenu.delivery).
+          
+      Примеры выполненных задач:
+      
+        - Постепенный перевод на Typescript проекта, написанного на Javascript, в том числе настройка параметров webpack, tsconfig и eslint
+        - Разработка универсальной таблицы данных с обширными возможностями персонализации
+        - Разработка WYSIWYG-редактора на основе библиотеки TinyMCE с использованием внутренних событий TinyMCE
+        
 # certifications:
 #   title: Certifications
 #   list:
@@ -120,29 +122,17 @@ experiences:
 #       Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-  title: Projects
+  title: Репозитории
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Небольшие проекты для демонстрации моего кода
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: Geo Quiz
+    link: "https://github.com/AndreyZhartun/geo-quiz"
+    tagline: "Небольшой фреймворк для квизов на React и BlueprintJS"
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: DOM Tetris
+    link: "https://andreyzhartun.github.io/dom-tetris/"
+    tagline: "Реализация тетриса DOM элементами"
 
 footer: >
   Тема создана <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
