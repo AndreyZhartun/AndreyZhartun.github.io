@@ -16,7 +16,7 @@ sidebar:
   email: qeetree@gmail.com
   phone: 7 996 669 49 40
   timezone: Russia/Moscow # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: Казахстан
+  citizenship: Гражданство Казахстана, постоянно проживаю в РФ (Тверь)
   # website: https://AndreyZhartun.github.io # Include the full website URL, including "http://" or "https://".
   # linkedin: alandoe
   # xing: alandoe
@@ -63,7 +63,6 @@ experiences:
     company: ITERA Software Lab, Караганда
     details: |
       Начал на позиции Junior-разработчика, был несколько раз повышен и закончил как Middle+.
-      Главные достижения:
 
         - Занимался поддержкой и дополнением большой CRM-системы в рамках проекта <a href="https://appin.cloud" target="_blank" rel="nofollow">AppInCloud</a>.
         - Создавал и поддерживал небольшие CRM-системы на React.
@@ -72,7 +71,7 @@ experiences:
 
       Обязанности:
         - Разбитие эпиков JIRA на задачи дизайна и разработки
-        - Обсуждение макетов Adobe XD с UX-дизайнерами
+        - Обсуждение макетов Adobe XD или Figma с UX-дизайнерами
         - Реализация дизайн-макетов Adobe XD или Figma с помощью React+Typescript
         - Слияние веток и разрешение merge-конфликтов
       
@@ -81,7 +80,19 @@ experiences:
         - Постепенный перевод на Typescript проекта, написанного на Javascript, в том числе настройка параметров webpack, tsconfig и eslint
         - Разработка универсальной таблицы данных с обширными возможностями персонализации
         - Разработка WYSIWYG-редактора на основе библиотеки TinyMCE с использованием внутренних событий TinyMCE
-        
+
+      Знакомые технологии:
+        - React 18.* (хуки, Suspense, SSR и прочее)
+        - Next.js 13+ (App Router)
+        - Redux (redux-thunk, redux-saga)
+        - Zustand
+        - Sass
+        - Lodash
+        - Formik, Yup, react-select и прочие библиотеки для работы с формами
+        - TinyMCE - WYSIWYG-редактор
+        - amCharts - для отображения графиков и диаграмм
+        - dnd-kit - различные интерфейсы с drag&drop функционалом
+      
 # certifications:
 #   title: Certifications
 #   list:
