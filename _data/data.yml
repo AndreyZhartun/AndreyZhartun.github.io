@@ -139,12 +139,12 @@ projects:
   intro: >
     Небольшие проекты для демонстрации моего кода
   assignments:
-  - title: Geo Quiz
-    link: "https://github.com/AndreyZhartun/geo-quiz"
+  - title: Quiz Framework
+    link: "https://andreyzhartun.github.io/quiz-framework"
     tagline: "Небольшой фреймворк для квизов на React и BlueprintJS"
 
   - title: DOM Tetris
-    link: "https://andreyzhartun.github.io/dom-tetris/"
+    link: "https://andreyzhartun.github.io/dom-tetris"
     tagline: "Реализация тетриса DOM элементами"
 
 footer: >
